@@ -3,5 +3,20 @@ public class HelloWorld {
     System.out.println("Hello World by sahil!");
  System.out.println("Hello World by sahil");
    System.out.println("I live in jhungian");
-  System.out.println("I have completed my +2");}
+  System.out.println("I have completed my +2");
+
+
+//The main method executes the tasks of the class
+System.out.println("*");
+System.out.println("**");
+System.out.println("***");
+System.out.println("****");
+System.out.println("*****");
+System.out.println("       ");
+System.out.println("    *");
+System.out.println("   **");
+System.out.println("  ***");
+System.out.println(" ****");
+System.out.println("*****");
+  }
 }
